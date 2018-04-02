@@ -1,1 +1,1 @@
-# EENG-5940-Q-Learning_TicTacToe
+# EENG 5940 Q-Learning_TicTacToe
