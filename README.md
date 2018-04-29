@@ -2,8 +2,10 @@
 
 
 1. Traing Q-agent
+
 python Q_learning.py
   
   
 2. Playing with Q-agent
+
 python Human_vs_Q.py
